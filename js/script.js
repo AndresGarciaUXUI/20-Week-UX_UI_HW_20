@@ -1,6 +1,5 @@
 var index = 0,
     messg = [
-        "Just a Sec...", 
         
         "Thank You for your Message!"
     ];
